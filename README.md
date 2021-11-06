@@ -1,6 +1,7 @@
 # Getting-and-Cleaning-Data
 
 This is tidy data from
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-it expects mean and standard deviation.
+this code expects mean and standard deviation.
 
